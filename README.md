@@ -1,3 +1,3 @@
 # checkList-project
-recreate the work of CodeBustler
-Adaptado por ValeriaMS
+- Recreate the work of CodeBustler
+- Adaptado por ValeriaMS
